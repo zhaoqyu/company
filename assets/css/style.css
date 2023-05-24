@@ -35,6 +35,7 @@ label {
 
 /* Header */
 #head {
+    /* background: #181015 url( ../images/video/ban_pc.mp4) no-repeat; */
     background: #181015 url( ../images/bg_header.jpg) no-repeat;
     background-size: cover;
     min-height: 520px;
@@ -617,6 +618,8 @@ height: 100px;
 min-height: 100px;
 padding-top: 0px;
 background: #181015 url(../images/bg_header.jpg) 0px -232px no-repeat;
+/* background: #181015 url(../images/video/ban_pc.mp4) 0px -232px no-repeat; */
+
 background-size: cover;
 }
 /**
